@@ -1,0 +1,3 @@
+这是git命令上传过来的文件
+git add 命令添加文件到暂存区
+git commit 提交文件
